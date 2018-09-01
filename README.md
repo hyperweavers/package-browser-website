@@ -1,2 +1,5 @@
-# package-browser-website
-Website of Package Browser - An explorer/search engine for JavaScript packages for web development.
+# Package Browser - Website
+
+Source code of the [Package Browser](https://github.com/k7moorthi/package-browser)'s official website.
+
+### Please report issues [here](https://github.com/k7moorthi/package-browser/issues).
